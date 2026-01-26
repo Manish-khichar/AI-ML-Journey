@@ -1,4 +1,7 @@
 # AI-ML-Journey
+[Open in Colab](https://colab.research.google.com/)
+
+
 My step-by-step journey learning Machine Learning from scratch
 
 This repository documents my step-by-step journey learning
